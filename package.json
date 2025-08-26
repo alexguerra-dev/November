@@ -2,6 +2,13 @@
     "name": "november",
     "version": "0.0.1",
     "private": true,
+    "homepage": "https://november.lovelyvector.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lovelyvector/november"
+    },
+    "author": "Alexander A. Guerra",
+    "license": "MIT",
     "scripts": {
         "dev": "next dev --turbopack",
         "build": "next build --turbopack",
