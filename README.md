@@ -2,9 +2,7 @@
 
 ## The Game
 
-### Setup
-
-### Rules
+Here are the [rules of the game](/doc/rules.md). I
 
 ## Development
 
